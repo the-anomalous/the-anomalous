@@ -6,6 +6,7 @@ Passionate about programming and sharing my knowledge with others. If you found 
 ### Get in touch
 - Twitter : [@aditya_musale03](https://twitter.com/aditya_musale03)
 - Instagram : [@the_anomalous_](https://www.instagram.com/the_anomalous_/)
+- Linkdin: [Aditya Musale](https://www.linkedin.com/in/aditya-musale-8599a6214)
 - Email : adityamusale4477@gmail.com
 <!---
 the-anomalous/the-anomalous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
